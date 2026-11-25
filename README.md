@@ -332,13 +332,13 @@ The Makefile does not build every example automatically. Original exercises may 
 
 ## Author
 
-**Sanket Shivaji Thakare**
+**Dr Sabbi Vamshi Krishna**
 
-Project Engineer — HPC Technologies Group
+Project Manager — HPC Technologies Group
 
 Centre for Development of Advanced Computing (C-DAC), Pune, India
 
-GitHub: https://github.com/Sanket5153
+GitHub: https://github.com/profkris
 
 ---
 
