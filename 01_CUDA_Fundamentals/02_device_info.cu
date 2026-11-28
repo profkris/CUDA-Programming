@@ -44,6 +44,6 @@ int main()
                 printf("  Maximum sizes of each dimension of a grid:     %d x %d x %d\n", deviceProp.maxGridSize[0], deviceProp.maxGridSize[1],  deviceProp.maxGridSize[2]);
                 printf("  Maximum memory pitch:                          %ld bytes\n", deviceProp.memPitch);
                 printf("  Texture alignment:                             %ld bytes\n", deviceProp.textureAlignment);
-                printf("  Clock rate:                                    %d kilohertz\n", deviceProp.clockRate);
+               // printf("  Clock rate:                                    %d kilohertz\n", deviceProp.clockRate);
         }
 }
